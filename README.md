@@ -1,4 +1,5 @@
-                                     Development link   🔗 https://pass-word.vercel.app/
+                                 Explore the live demo: [Password Generator](https://pass-word.vercel.app/)
+
 
 Password Generator
 
