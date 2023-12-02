@@ -1,4 +1,4 @@
-                                                       Development link   🔗 [https://pass-word.vercel.app/]
+                                     Development link   🔗 https://pass-word.vercel.app/
 
 Password Generator
 
@@ -10,9 +10,10 @@ Customization: Tailor your passwords with options for length, including uppercas
 Secure: Generate strong, random passwords that meet industry-standard security recommendations.
 User-Friendly Interface: An intuitive and easy-to-use interface for quick password generation.
 Responsive Design: Accessible across various devices for a seamless user experience.
+
 How to Use
 
-Visit the Password Generator website.
+Visit the Password Generator website .
 Choose your preferred password length and customization options.
 Click the "Generate Password" button.
 Copy the generated password and use it wherever needed.
